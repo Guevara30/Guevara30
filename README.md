@@ -11,9 +11,8 @@ Soy ingeniero en mecatrónica con experiencia en impresión 3D, CNC, automatizac
 Profecionial con Arduino, Raspberry Pi, ESP32 y PLC 
 Desarrollo de proyectos con enfoque en eficiencia y alto desempeño.
 
-Me apasiona el desarrollo de hardware, los retos técnicos y los proyectos que mezclan mecánica, electrónica y software. 
-
-También me interesa el automovilismo y quiero dearrollar un auto de competicion algún día.
+Me apasiona el desarrollo de hardware, los retos técnicos y los proyectos que mezclan mecánica, electrónica y software.
+Hacker por necesidad. 
 
 ---
 ## Habilidades
