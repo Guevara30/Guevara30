@@ -12,6 +12,7 @@ Profecionial con Arduino, Raspberry Pi, ESP32 y PLC
 Desarrollo de proyectos con enfoque en eficiencia y alto desempeño.
 
 Me apasiona el desarrollo de hardware, los retos técnicos y los proyectos que mezclan mecánica, electrónica y software.
+
 Hacker por necesidad. 
 
 ---
